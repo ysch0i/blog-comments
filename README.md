@@ -1,1 +1,1 @@
-# ysch0i-blog-comments
+# blog-comments
